@@ -18,8 +18,6 @@
   <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
   <!-- <img width="6" /> -->
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go" />
-  <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" />
   <img width="6" />
   <!-- Backend -->
